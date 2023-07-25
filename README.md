@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YousefBsr
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning more DevOps
+- 🌱 I’m currently learning DevOps
 
 
 
